@@ -1,1 +1,1 @@
-# friday-service-mesg
+# friday-service-msg
