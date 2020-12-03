@@ -1,0 +1,10 @@
+com\friday\websocket\model\WsMessage.class
+com\friday\websocket\handler\WsMessageHandler.class
+com\friday\websocket\util\enums\WsCommandOuter.class
+com\friday\websocket\util\enums\WsCommandInner.class
+com\friday\websocket\controller\WebSocketPageController.class
+com\friday\websocket\handler\CustomWsHandler.class
+com\friday\websocket\WebSocket2Application.class
+com\friday\websocket\interceptor\CustomInterceptor.class
+com\friday\websocket\util\WsParamName.class
+com\friday\websocket\config\WsConfig.class

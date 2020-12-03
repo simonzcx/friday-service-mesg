@@ -1,0 +1,4 @@
+com\friday\websocket\springboot_websocket\MyWebSocketHandler.class
+com\friday\websocket\springboot_websocket\WebSocketConfigTwo$MyWebSocketInterceptor.class
+com\friday\websocket\springboot_websocket\WebSocketConfigTwo.class
+com\friday\websocket\WebSocket1Application.class

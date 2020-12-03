@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+
+spring:
+  thymeleaf:
+    enabled: true
+    prefix: classpath:static/templates/
+    suffix: .html
+    cache: false
+    mode: HTML
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+
+logging:
+  config: classpath:config/logback-local.xml
